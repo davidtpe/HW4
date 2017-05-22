@@ -1,0 +1,140 @@
+.jumbotron h2 {
+    text-align: center;
+    color: #d40eae;
+}
+
+.jumbotron p {
+    text-align: center;
+    color: brown;
+}
+
+.movie-col {
+    border-right: 1px solid grey;
+    border-bottom: 1px solid grey;
+}
+
+.movie-poster {
+    height: 460px;
+    width: 320px;
+    border: 2px solid blue;
+}
+
+.movie-title {
+    color: darkred;
+}
+
+.carousel-inner>.item>.page {
+    width: 75%;
+    height: 550px;
+    margin: auto;
+}
+
+.page {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#page0 {
+    background-image: url("http://www.sonetoeditora.com.br/static_img/1596601/resize-500x281_terminator-1-0.jpg")
+}
+
+#page1 {
+    background-image: url("http://tigernewspaper.com/wordpress/wp-content/uploads/2015/07/JyTCM1.jpg")
+}
+
+#page2 {
+    background-image: url("https://nypdecider.files.wordpress.com/2014/12/terminator-teaser.png?w=1156")
+}
+
+#page3 {
+    background-image: url("http://img.gq.com.tw/userfiles/sm/sm645_images_A1/22509/2015060863119137.jpg")
+}
+
+#page4 {
+    background-image: url("http://www.animation-boss.com/images/independence-day-resurgence-vfx-1.jpg")
+}
+
+#page5 {
+    background-image: url("http://hifilmcriticssociety.org/wp-content/uploads/2016/06/ID4-2.jpg")
+}
+
+#page6 {
+    background-image: url("http://cdn.movieweb.com/img.news.tops/NEHaoZx6C977KJ_3_b.jpg")
+}
+
+#page7 {
+    background-image: url("https://i.ytimg.com/vi/qVYyUzKmnKs/hqdefault.jpg")
+}
+
+#page8 {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/61/b4/b7/61b4b7b5d6c62651373abb14a68e9b6a.jpg")
+}
+
+#page9 {
+    background-image: url("http://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/2016/11/prometheus.jpg?itok=i7-FPngX")
+}
+
+#page10 {
+    background-image: url("http://pic.pimg.tw/josephshih/1339059049-1291457300.jpg")
+}
+
+#page11 {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/1b/0d/9d/1b0d9d5bb6c3297b1726936a4d679237.jpg")
+}
+
+#page12 {
+    background-image: url("http://www.ebihoreanul.ro/modules/news/files/resident-evil.jpg")
+}
+
+#page13 {
+    background-image: url("http://i.dailymail.co.uk/i/pix/2012/07/03/article-2168161-062E5370000005DC-711_634x422.jpg")
+}
+
+#page14 {
+    background-image: url("http://i.playground.ru/i/21/86/32/00/blog/content/osktgxn6.jpg")
+}
+
+#page15 {
+    background-image: url("http://blog.xuite.net/softheart0228/twblog/481490259/cover600.jpg?d=600.png")
+}
+
+#page16 {
+    background-image: url("http://2.bp.blogspot.com/-qjSjlDliizY/Tei7BkQZ_MI/AAAAAAAABK8/ORHEXRRMhmU/s1600/2012-movie-screenshots18.jpg")
+}
+
+#page17 {
+    background-image: url("http://4.bp.blogspot.com/-r1e8Gfrfqao/TlP_TDoITZI/AAAAAAAAB40/YlnTIdQs_EA/s1600/Deep+Impact+wave.jpg")
+}
+
+footer {
+    padding-top: 10px;
+    padding-left: 20px;
+    background-color: #15779b;
+    color: white;
+    text-align: left;
+    font-size: 16px;
+}
+
+#scrollTopBtn {
+    width: 70px;
+    height: 40px;
+    background-color: darkred;
+    text-align: center;
+    line-height: 40px;
+    color: white;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 35px;
+    right: 35px;
+    display: none;
+}
+
+#scrollTopBtn.scroll {
+    display: block;
+}
+
+#scrollTopBtn:hover,
+#scrollTopBtn:focus {
+    text-decoration: none;
+    outline: none;
+}
